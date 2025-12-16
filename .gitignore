@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+log.txt
+cloned_site/
+instance/
+tempCodeRunnerFile.py
+.DS_Store
